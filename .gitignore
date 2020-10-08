@@ -1,0 +1,6 @@
+node_modules
+.umi
+.umi-production
+dist
+.idea
+package-lock.json

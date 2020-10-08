@@ -1,0 +1,29 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "dumi": "^1.0.34"
+  },
+  "scripts": {
+    "dev": "dumi dev --port=8030",
+    "build": "dumi build",
+    "deploy": "bash ./deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisuoke/vue-guidebook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weisuoke/vue-guidebook/issues"
+  },
+  "homepage": "https://github.com/weisuoke/vue-guidebook#readme"
+}
